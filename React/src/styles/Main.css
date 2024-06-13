@@ -1,0 +1,25 @@
+nav.categories {
+    min-width: 10vw;
+    display: flex;
+    flex-direction: row;
+}
+
+a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: lightgray;
+    border: 1px solid black;
+    padding: 30px 50px;
+    border-radius: 5%;
+    color: black;
+}
+
+a:hover {
+    border-radius: 40%;
+    color: black;
+}
+
+.homeButton {
+    background-color: red;
+}

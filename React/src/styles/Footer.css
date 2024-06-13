@@ -1,0 +1,8 @@
+.doc {
+    min-width: 80vw;
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    border: solid 2px black;
+    background-color: rgb(103, 201, 138);
+}

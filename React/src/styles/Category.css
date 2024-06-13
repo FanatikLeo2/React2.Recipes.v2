@@ -1,0 +1,14 @@
+h2 {
+    margin: 20px;
+}
+
+h2.category-name {
+    color:black;
+    font-size: 3rem;
+}
+
+nav.dishes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
