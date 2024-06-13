@@ -1,0 +1,20 @@
+div.recipy-container {
+    min-height: 80vh;
+    min-width: 95vw;
+}
+
+div.dish-name {
+    margin: 10px;
+    background: rgb(103, 201, 138);
+    color: black;
+    border: 1px dotted black;
+    padding: 10px;
+}
+
+div.recipy-name {
+    margin: 10px;
+    background-color:  rgb(103, 201, 138);
+    color: black;
+    border: 1px dotted black;
+    padding: 10px;
+}

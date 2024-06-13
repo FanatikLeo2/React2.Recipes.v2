@@ -1,0 +1,25 @@
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    padding: 0;
+    margin: 0 auto;
+    min-width: 95vw;
+    min-height: 95vh;
+    font-size: 18px;
+    line-height: 1;
+    text-align: center;
+}
+
+a,
+a:hover,
+a:visited {
+    text-decoration: none;
+    margin: 10px;
+}
